@@ -27,13 +27,7 @@
 
 ## 📊 My GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashj&show_icons=true&theme=radical&count_private=true" alt="Vikash's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashj&theme=radical" alt="Vikash's GitHub Streak" />
-</p>
 
 ## 🤝 Let's Connect!
 
