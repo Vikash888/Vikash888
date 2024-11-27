@@ -25,10 +25,6 @@
 - 🤝 Open to collaboration and learning opportunities
 - 🎯 Committed to writing clean, efficient, and maintainable code
 
-## 📊 My GitHub Journey
-
-
-
 ## 🤝 Let's Connect!
 
 <p align="center">
