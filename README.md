@@ -47,7 +47,7 @@
   <a href="https://x.com/VIKASHJ61079581?t=inXd14NSUr6ub3DujGEReg&s=09">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://github.com/vikashj">
+  <a href="https://github.com/Vikash888">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
