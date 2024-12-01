@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="#" title="Databases & Tools">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,linux,git,bash,nginx,neovim,vscode" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,linux,git,bash,vscode" />
   </a>
 </p>
 
