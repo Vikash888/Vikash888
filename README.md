@@ -6,11 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vikash888">
-    <img src="https://komarev.com/ghpvc/?username=Vikash888&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <!-- Profile Views Counter using hits.sh -->
+  <a href="https://hits.sh/github.com/Vikash888/">
+    <img src="https://hits.sh/github.com/Vikash888.svg?view=today-total&style=for-the-badge&label=Profile%20Views&color=blueviolet"/>
   </a>
+  <!-- GitHub Stars -->
   <a href="https://github.com/Vikash888?tab=repositories&sort=stargazers">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Vikash888?color=yellow&style=for-the-badge">
+  </a>
+  <!-- Profile Like Button -->
+  <a href="https://github.com/Vikash888/Vikash888/issues/1">
+    <img src="https://img.shields.io/github/stars/Vikash888/Vikash888?label=Like%20Profile&style=for-the-badge&logo=github&color=ff69b4"/>
   </a>
 </p>
 
