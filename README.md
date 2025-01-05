@@ -42,6 +42,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://vikash888.github.io/visitor-counter/" alt="Visitors" />
+  <img src="https://vikash888.github.io/visitor-counter/"/>
 </p>
 *Crafted with ❤️ by VIKASH J*
