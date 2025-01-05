@@ -41,14 +41,4 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikashj&color=blueviolet&style=flat-square&cache=true&cache_seconds=86400" alt="Profile Views Counter" />
-</p>
-
-<!-- Custom Like Button -->
-<p align="center">
-  <a href="#" onclick="return false;">
-    <img src="https://img.shields.io/badge/Like-%E2%9D%A4-red?style=for-the-badge&logo=github" alt="Like Button" />
-  </a>
-</p>
 *Crafted with ❤️ by VIKASH J*
