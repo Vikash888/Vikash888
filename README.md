@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Likes%20(0)-❤-red?style=for-the-badge" alt="Like Button" />
   </div>
 </div>
-
+*Crafted with ❤️ by VIKASH J*
 <!-- Add this script tag at the bottom of your README -->
 <script type="module">
   import { updateViewCount, handleLike, getStats } from './profile-stats.js';
@@ -79,4 +79,3 @@
       `https://img.shields.io/badge/Likes%20(${likes})-❤-red?style=for-the-badge`;
   }
 </script>
-*Crafted with ❤️ by VIKASH J*
