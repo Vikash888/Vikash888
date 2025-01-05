@@ -50,11 +50,4 @@
     <img src="https://img.shields.io/badge/Likes%20(0)-❤-red?style=for-the-badge" alt="Like Button" />
   </div>
 </div>
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikash888&theme=dark)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash888&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 *Crafted with ❤️ by VIKASH J*
