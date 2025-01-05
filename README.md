@@ -50,32 +50,11 @@
     <img src="https://img.shields.io/badge/Likes%20(0)-❤-red?style=for-the-badge" alt="Like Button" />
   </div>
 </div>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikash888&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash888&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 *Crafted with ❤️ by VIKASH J*
-<!-- Add this script tag at the bottom of your README -->
-<script type="module">
-  import { updateViewCount, handleLike, getStats } from './profile-stats.js';
-  
-  const USERNAME = 'vikash888';
-  
-  // Update view counter on page load
-  window.addEventListener('load', async () => {
-    const views = await updateViewCount(USERNAME);
-    document.getElementById('viewCounter').src = 
-      `https://img.shields.io/badge/Profile%20Views-${views}-blueviolet?style=flat-square`;
-    
-    // Get initial stats
-    const stats = await getStats(USERNAME);
-    updateLikeButton(stats.likes);
-  });
-  
-  // Handle like button click
-  document.getElementById('likeButton').addEventListener('click', async () => {
-    const likes = await handleLike(USERNAME);
-    updateLikeButton(likes);
-  });
-  
-  function updateLikeButton(likes) {
-    document.getElementById('likeButton').querySelector('img').src = 
-      `https://img.shields.io/badge/Likes%20(${likes})-❤-red?style=for-the-badge`;
-  }
-</script>
