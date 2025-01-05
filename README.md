@@ -41,4 +41,42 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+<div align="center">
+  <!-- Profile Views -->
+  <img id="viewCounter" src="https://img.shields.io/badge/Profile%20Views-loading...-blueviolet?style=flat-square" alt="Profile Views" />
+  
+  <!-- Like Button -->
+  <div id="likeButton" style="margin-top: 10px; cursor: pointer;">
+    <img src="https://img.shields.io/badge/Likes%20(0)-❤-red?style=for-the-badge" alt="Like Button" />
+  </div>
+</div>
+
+<!-- Add this script tag at the bottom of your README -->
+<script type="module">
+  import { updateViewCount, handleLike, getStats } from './profile-stats.js';
+  
+  const USERNAME = 'vikash888';
+  
+  // Update view counter on page load
+  window.addEventListener('load', async () => {
+    const views = await updateViewCount(USERNAME);
+    document.getElementById('viewCounter').src = 
+      `https://img.shields.io/badge/Profile%20Views-${views}-blueviolet?style=flat-square`;
+    
+    // Get initial stats
+    const stats = await getStats(USERNAME);
+    updateLikeButton(stats.likes);
+  });
+  
+  // Handle like button click
+  document.getElementById('likeButton').addEventListener('click', async () => {
+    const likes = await handleLike(USERNAME);
+    updateLikeButton(likes);
+  });
+  
+  function updateLikeButton(likes) {
+    document.getElementById('likeButton').querySelector('img').src = 
+      `https://img.shields.io/badge/Likes%20(${likes})-❤-red?style=for-the-badge`;
+  }
+</script>
 *Crafted with ❤️ by VIKASH J*
