@@ -42,7 +42,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikashj&color=blueviolet&style=flat-square" alt="Profile Views" />
+![Profile Views](https://vikash888.github.io/Profile-Views/)
 </p>
 
 *Crafted with ❤️ by VIKASH J*
