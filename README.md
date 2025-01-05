@@ -42,7 +42,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://vikash888.github.io/visitor-counter/" 
-       alt="Profile Views" />
+  <img src="https://vikash888.github.io/visitor-counter/?username=vikash888" alt="Visitors" />
 </p>
 *Crafted with ❤️ by VIKASH J*
