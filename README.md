@@ -42,8 +42,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://vikash888.github.io/github-stats/">
-    <img src="https://img.shields.io/badge/View%20Profile%20Stats-Click%20Here-blueviolet?style=for-the-badge" alt="Profile Stats" />
-  </a>
+  <img src="https://vikash888.github.io/visitor-counter/username=Vikash888" 
+       alt="Profile Views" />
 </p>
 *Crafted with ❤️ by VIKASH J*
